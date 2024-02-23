@@ -3,7 +3,7 @@
 </div>
 
 <br> 
-<br> 
+
 ![무제 drawio (17)](https://github.com/mgKang3646/Docker-Fullstack-App/assets/80077569/dfd953a5-ad5d-4199-b2d5-688689329b53)
 
 <br> 
@@ -30,4 +30,4 @@ MySQL 이미지는 플랫폼 일관성을 유지해야 한다. 나는 Mac m1칩 
 
 ## 상세설명 
 
-[![Tistory Newest Post](https://github-readme-tistory-card.vercel.app/api/badge?name=lordofkangs&postId=564&theme=default)](https://lordofkangs.tistory.com/564)
+[![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=lordofkangs&postId=564)](https://lordofkangs.tistory.com/564)
