@@ -27,7 +27,8 @@ npm run start로 리액트 개발서버를 띄웠다. 개발환경은 변경된 
 ## MySQL ( DB ) 
 MySQL 이미지는 플랫폼 일관성을 유지해야 한다. 나는 Mac m1칩 환경(ARM64)이다. 도커는 환경과 유사한 베이스이미지를 가져오려고 하기 때문에 플랫폼 옵션으로 AMD64환경의 MySQL이미지를 가져올 수 있도록 설정해야 한다. 그리고 인코딩 설정파일을 복사한다. 
 
+<br> 
 
 ## 상세설명 
 
-[![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=lordofkangs&postId=564)](https://lordofkangs.tistory.com/564)
+[![Tistory Dark Theme](https://tistory-readme-stats.vercel.app/api?name=lordofkangs&postId=564)](https://lordofkangs.tistory.com/564)
