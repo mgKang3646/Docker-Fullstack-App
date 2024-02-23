@@ -1,4 +1,6 @@
-# Nginx - React - Nodejs - Mysql 연동 실습
+<div align="center">
+<h1>Nginx - React - Nodejs - Mysql 연동 실습</h1>
+</div>
 
 <br> 
 
