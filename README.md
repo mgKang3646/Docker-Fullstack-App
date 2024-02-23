@@ -31,4 +31,4 @@ MySQL 이미지는 플랫폼 일관성을 유지해야 한다. 나는 Mac m1칩 
 
 ## 상세설명 
 
-[![Tistory Dark Theme](https://tistory-readme-stats.vercel.app/api?name=lordofkangs&postId=564)](https://lordofkangs.tistory.com/564)
+[![Tistory Dark Theme](https://tistory-readme-stats.vercel.app/api?name=lordofkangs&postId=564&description=Vue.js%20Electron%20Python%20%EC%8B%A4%ED%96%89%EA%B8%B0&color=dark)](https://github.com/MoonJuhan/tistory-readme-stats)
