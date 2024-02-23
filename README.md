@@ -31,4 +31,4 @@ MySQL 이미지는 플랫폼 일관성을 유지해야 한다. 나는 Mac m1칩 
 
 ## 상세설명 
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name={lordofkangs}&postId={564}&theme={santorini})](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name={lordofkangs}&postId={564}&theme={santorini})](https://lordofkangs.tistory.com/564)
